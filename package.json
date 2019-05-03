@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d mes_project/projet1Static/projet1Static"
+    "deploy": "gh-pages -d mes_project/projet1Static"
   },
   "keywords": [],
   "author": "",
