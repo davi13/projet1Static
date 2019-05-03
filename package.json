@@ -1,0 +1,16 @@
+{
+  "name": "projet1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d projet1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://davi13.github.io/daviprojet1",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
